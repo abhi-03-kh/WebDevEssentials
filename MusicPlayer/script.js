@@ -68,10 +68,10 @@ const songs = [
         artist: 'Luis Fonsi',
     },
     {
-        path: 'Resources/neffex.mp3',
-        displayName: 'You Will Never See Me Coming',
-        cover: 'Resources/neffex img.jpg',
-        artist: 'NEFFEX',
+        path: 'Resources/Adele Skyfall.mp3',
+        displayName: 'Skyfall',
+        cover: 'Resources/James Bond skyfall.jpeg',
+        artist: 'Adele',
     },
     {
         path: 'Resources/Roddy Ricch - The Box [Official Audio].mp3',
